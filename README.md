@@ -18,7 +18,7 @@
 
 ## 🎯 Compatibilidade e Testes
 
-- **Dispositivo Testado:** Compatível e homologado no modelo **SuperFrame Smart 240mm (Bomba Infinity)**.
+- **Dispositivo Testado:** Compatível e testado no modelo **SuperFrame Isengard Smart 240mm (Bomba Infinity)**.
 - **Controladores USB Serial Suportados:** CH340, CH341, CH340S (VID: `0x1A86`).
 - **Sistema Operacional:** Linux (com suporte a `/sys/class/hwmon` para leitura de sensores).
 
