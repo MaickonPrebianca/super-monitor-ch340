@@ -1,4 +1,4 @@
-# Super Monitor — Water Cooler Controller & HUD
+# Super Monitor — Water Cooler Controller & HUD - Compatível Superframe Isengard Smart 240mm (Bomba Infinity)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8+-brightgreen.svg)](https://www.python.org/)
