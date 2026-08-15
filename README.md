@@ -11,7 +11,7 @@
 
 | Interface do Aplicativo | Hardware em Funcionamento |
 | :---: | :---: |
-| ![Interface App](imagemApp.png) | ![Watercooler Hardware](imagemWatercooler.png) |
+| ![Interface App](imagemApp.png) | ![Watercooler Hardware](imagemWatercooler2.png) |
 | *GUI Desktop em Tkinter com fontes 7 segmentos e arcos dinâmicos* | *Display LCD do Water Cooler sincronizado em tempo real via Serial USB* |
 
 ---
